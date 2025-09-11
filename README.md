@@ -6,11 +6,11 @@ Software Engineer
 
 Focused on building high-quality, thoughtful, and intuitive websites and web applications.
 
-* 🌍  I'm based in Suzhou, China
+* 🌍  I'm based in Christchurch, New Zealand
 * 🖥️  See my portfolio at [MyPortfolio](http://archerzou.com)
 * ✉️  You can contact me at [archer.zou84@gmail.com](mailto:archer.zou84@gmail.com)
-* 🚀  I'm currently working on [Film Tour](http://archer-movies.netlify.app/browse/popular)
-* 🧠  I'm learning Angluar
+* 🚀  I'm currently working on [Nike Ecommerce](https://nike-ecommerce-beta.vercel.app/)
+* 🧠  I'm learning Data Science at the University of Canterbury
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Meditation Enthusiast
 
