@@ -51,10 +51,4 @@ Focused on building high-quality, thoughtful, and intuitive full-stack web appli
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=archerzou&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
 </a>
 
-### 📊 Contribution Graph
-
-<a href="http://www.github.com/archerzou">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archerzou&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
-</a>
-
 </div>
